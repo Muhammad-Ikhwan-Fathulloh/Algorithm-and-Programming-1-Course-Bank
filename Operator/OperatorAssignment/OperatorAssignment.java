@@ -1,0 +1,14 @@
+int a, b;
+a = 6;
+b = 3;
+System.out.println(a); //hasilnya 6
+a += b;
+System.out.println(a); //hasilnya 9
+a -= b;
+System.out.println(a); //hasilnya 6
+a *= b;
+System.out.println(a); //hasilnya 18
+a /= b;
+System.out.println(a); //hasilnya 6
+a %= b;
+System.out.println(a); //hasilnya 0
