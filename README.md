@@ -35,12 +35,12 @@ Bank Mata Kuliah Algoritma dan Pemograman 1
 
 ## Prosedur
 <ul>
-  <li><a href="">Belajar Prosedur</a></li>
+  <li><a href="https://github.com/Muhammad-Ikhwan-Fathulloh/Algorithm-and-Programming-1-Course-Bank/tree/main/Prosedur">Belajar Prosedur</a></li>
 </ul>
 
 ## Fungsi
 <ul>
-  <li><a href="">Belajar Fungsi</a></li>
+  <li><a href="https://github.com/Muhammad-Ikhwan-Fathulloh/Algorithm-and-Programming-1-Course-Bank/tree/main/Fungsi">Belajar Fungsi</a></li>
 </ul>
 
 ## Sorting
