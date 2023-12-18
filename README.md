@@ -8,12 +8,14 @@ Bank Mata Kuliah Algoritma dan Pemograman 1
 
 ## Pemilihan
 <ul>
-  <li><a href="">Belajar Pemilihan</a></li>
+  <li><a href="https://github.com/Muhammad-Ikhwan-Fathulloh/Algorithm-and-Programming-1-Course-Bank/tree/main/Pemilihan">Belajar Pemilihan</a></li>
+  <li><a href="https://github.com/Muhammad-Ikhwan-Fathulloh/Algorithm-and-Programming-1-Course-Bank/tree/main/Pemilihan">Belajar Pemilihan Bersarang</a></li>
 </ul>
 
 ## Perulangan
 <ul>
   <li><a href="">Belajar Perulangan</a></li>
+  <li><a href="">Belajar Perulangan Bersarang</a></li>
 </ul>
 
 ## Pemilihan & Perulangan Bersarang
