@@ -32,7 +32,7 @@ Bank Mata Kuliah Algoritma dan Pemograman 1
 
 ## Modular
 <ul>
-  <li><a href="">Belajar Modular</a></li>
+  <li><a href="https://github.com/Muhammad-Ikhwan-Fathulloh/Algorithm-and-Programming-1-Course-Bank/tree/main/Modular">Belajar Modular</a></li>
 </ul>
 
 ## Prosedur
