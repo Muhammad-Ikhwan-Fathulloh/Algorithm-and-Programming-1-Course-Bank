@@ -54,3 +54,8 @@ Bank Mata Kuliah Algoritma dan Pemograman 1
 <ul>
   <li><a href="https://github.com/Muhammad-Ikhwan-Fathulloh/Data-Structure-Course-Bank/tree/main/Searching">Belajar Searching</a></li>
 </ul>
+
+## Template Proyek Tim
+<ul>
+  <li>Final Proyek Template: <a href="https://github.com/Muhammad-Ikhwan-Fathulloh/Final-Student-Project">Template</a></li>
+</ul>
