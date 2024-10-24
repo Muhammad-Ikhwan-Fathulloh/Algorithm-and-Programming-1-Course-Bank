@@ -25,9 +25,9 @@ Bank Mata Kuliah Algoritma dan Pemograman 1
 
 ## Array dan Record
 <ul>
-  <li><a href="https://github.com/Muhammad-Ikhwan-Fathulloh/Data-Structure-Course-Bank/tree/main/Array">Belajar Array</a></li>
-  <li><a href="https://github.com/Muhammad-Ikhwan-Fathulloh/Data-Structure-Course-Bank/tree/main/Record">Belajar Record</a></li>
-  <li><a href="https://github.com/Muhammad-Ikhwan-Fathulloh/Data-Structure-Course-Bank/tree/main/Array%20Record">Belajar Kombinasi Array & Record</a></li>
+  <li><a href="https://github.com/Muhammad-Ikhwan-Fathulloh/Data-Structure-Course-Bank/tree/main/Java%20Programming/Array">Belajar Array</a></li>
+  <li><a href="https://github.com/Muhammad-Ikhwan-Fathulloh/Data-Structure-Course-Bank/tree/main/Java%20Programming/Record">Belajar Record</a></li>
+  <li><a href="https://github.com/Muhammad-Ikhwan-Fathulloh/Data-Structure-Course-Bank/tree/main/Java%20Programming/Array%20Record">Belajar Kombinasi Array & Record</a></li>
 </ul>
 
 ## Modular
@@ -52,7 +52,7 @@ Bank Mata Kuliah Algoritma dan Pemograman 1
 
 ## Searching
 <ul>
-  <li><a href="https://github.com/Muhammad-Ikhwan-Fathulloh/Data-Structure-Course-Bank/tree/main/Searching">Belajar Searching</a></li>
+  <li><a href="https://github.com/Muhammad-Ikhwan-Fathulloh/Data-Structure-Course-Bank/tree/main/Java%20Programming/Searching">Belajar Searching</a></li>
 </ul>
 
 ## Template Proyek Tim
