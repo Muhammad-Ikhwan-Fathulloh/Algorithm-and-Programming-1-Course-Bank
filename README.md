@@ -47,7 +47,7 @@ Bank Mata Kuliah Algoritma dan Pemograman 1
 
 ## Sorting
 <ul>
-  <li><a href="https://github.com/Muhammad-Ikhwan-Fathulloh/Data-Structure-Course-Bank/tree/main/Sort">Belajar Sorting</a></li>
+  <li><a href="https://github.com/Muhammad-Ikhwan-Fathulloh/Data-Structure-Course-Bank/tree/main/Java%20Programming/Sort">Belajar Sorting</a></li>
 </ul>
 
 ## Searching
